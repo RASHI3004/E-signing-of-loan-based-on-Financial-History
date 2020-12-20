@@ -1,8 +1,6 @@
 # Data-Science-Project-sem5
 This repository contains the <b>E-signing of a loan based on financial history</b> project.
 
-![Image](resources/corr matrix.PNG)
-
 ### Link to the dataset: 
 https://drive.google.com/file/d/1k6oygMV8e12UoKU8yLkGit46QRTOFDE8/view?usp=sharing
 
