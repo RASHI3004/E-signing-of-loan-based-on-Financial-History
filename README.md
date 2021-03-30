@@ -1,4 +1,4 @@
-# Data-Science-Project-sem5
+# Project
 This repository contains the <b>E-signing of a loan based on financial history</b> project.
 
 ### Link to the dataset: 
